@@ -30,3 +30,4 @@ test: simulate edge cases for insufficient balance scenarios
 test: verify gas consumption benchmarks on Base Sepolia
 test: implement integration tests for multi-contract interaction
 test: verify Merkle Root verification for whitelisted addresses
+test: add fuzz testing for mathematical operations
