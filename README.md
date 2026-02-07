@@ -14,4 +14,6 @@ feat: add ERC721A implementation for gas-efficient minting on Base
 feat: implement Ownable access control for administrative functions
 fix: resolve reentrancy vulnerability in reward distribution
 feat: add URI storage for dynamic metadata management
+refactor: optimize gas usage in contract storage slots
+feat: implement whitelist functionality using Merkle Proofs
 
