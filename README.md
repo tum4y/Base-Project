@@ -27,3 +27,4 @@ feat: implement non-custodial staking logic
 test: implement unit tests for minting and transfers
 test: add security tests for access control modifiers
 test: simulate edge cases for insufficient balance scenarios
+test: verify gas consumption benchmarks on Base Sepolia
