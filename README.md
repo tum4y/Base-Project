@@ -31,3 +31,4 @@ test: verify gas consumption benchmarks on Base Sepolia
 test: implement integration tests for multi-contract interaction
 test: verify Merkle Root verification for whitelisted addresses
 test: add fuzz testing for mathematical operations
+test: verify event emission for all state-changing functions
