@@ -16,4 +16,11 @@ fix: resolve reentrancy vulnerability in reward distribution
 feat: add URI storage for dynamic metadata management
 refactor: optimize gas usage in contract storage slots
 feat: implement whitelist functionality using Merkle Proofs
-
+feat: add emergency pause and unpause mechanisms
+fix: update modifier logic for quest completion verification
+feat: add batch minting support for seasonal events
+refactor: improve error handling with custom Solidity errors
+feat: implement EIP-2981 for NFT royalties on Base
+feat: add burn mechanism for token deflation
+fix: validate address zero in constructor and setters
+feat: implement non-custodial staking logic
