@@ -38,3 +38,4 @@ feat: integrate Wagmi and Viem for Base network connection
 feat: add RainbowKit for enhanced wallet connectivity UI
 feat: implement real-time transaction tracking on BaseScan
 feat: add support for Coinbase Wallet and Smart Wallet SDK
+fix: resolve RPC provider timeout issues during high traffic
