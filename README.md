@@ -28,3 +28,4 @@ test: implement unit tests for minting and transfers
 test: add security tests for access control modifiers
 test: simulate edge cases for insufficient balance scenarios
 test: verify gas consumption benchmarks on Base Sepolia
+test: implement integration tests for multi-contract interaction
