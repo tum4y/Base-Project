@@ -7,3 +7,4 @@ feat: install OpenZeppelin contract libraries
 chore: configure Prettier and Solhint for code quality
 feat: add deployment scripts for Base network
 refactor: optimize hardhat.config.js for EVM Shanghai compatibility
+docs: add technical prerequisites and installation guide
