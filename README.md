@@ -34,3 +34,4 @@ test: add fuzz testing for mathematical operations
 test: verify event emission for all state-changing functions
 test: simulate front-running protection logic
 chore: run Slither static analysis for vulnerability detection
+feat: integrate Wagmi and Viem for Base network connection
