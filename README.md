@@ -42,3 +42,4 @@ fix: resolve RPC provider timeout issues during high traffic
 feat: add dynamic metadata rendering on the frontend
 refactor: optimize React hooks for blockchain data fetching
 feat: implement dark mode UI for the dApp interface
+fix: update contract ABI and deployment addresses
