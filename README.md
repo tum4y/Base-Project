@@ -5,3 +5,4 @@ chore: setup security environment variables with dotenv
 docs: initialize README with Base Quest project overview
 feat: install OpenZeppelin contract libraries
 chore: configure Prettier and Solhint for code quality
+feat: add deployment scripts for Base network
