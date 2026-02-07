@@ -24,3 +24,4 @@ feat: implement EIP-2981 for NFT royalties on Base
 feat: add burn mechanism for token deflation
 fix: validate address zero in constructor and setters
 feat: implement non-custodial staking logic
+test: implement unit tests for minting and transfers
