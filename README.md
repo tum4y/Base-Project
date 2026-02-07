@@ -40,3 +40,4 @@ feat: implement real-time transaction tracking on BaseScan
 feat: add support for Coinbase Wallet and Smart Wallet SDK
 fix: resolve RPC provider timeout issues during high traffic
 feat: add dynamic metadata rendering on the frontend
+refactor: optimize React hooks for blockchain data fetching
